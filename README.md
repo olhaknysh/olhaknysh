@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **olha.knysh.dev@gmail.com**
 
-- ⚡ Fun fact **Violin player, tennis player, happy owner of 2 parrots**
+- ⚡ Some facts **Violin player, tennis player, happy owner of 2 parrots**
 
 <h3 align="left">Programming Languages</h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
